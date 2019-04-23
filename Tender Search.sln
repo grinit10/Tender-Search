@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tender Search", "Tender Search\Tender Search.csproj", "{51A691C5-5453-4F2D-8D94-6BAE594D72CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A691C5-5453-4F2D-8D94-6BAE594D72CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A691C5-5453-4F2D-8D94-6BAE594D72CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A691C5-5453-4F2D-8D94-6BAE594D72CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A691C5-5453-4F2D-8D94-6BAE594D72CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {427016FC-D733-429C-ABF4-23FF9465A618}
+	EndGlobalSection
+EndGlobal
